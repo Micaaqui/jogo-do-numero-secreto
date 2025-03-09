@@ -9,7 +9,7 @@
 * CSS
 * JavaScript
 
-## Nessa versão usamos:
+## Nessa 2° versão usamos:
 * `document.querySelector()` e `.innerHTML`- para manipular os textos do HTML
 * `function`- funções
 * funções com parâmetros, para não repetir o código
